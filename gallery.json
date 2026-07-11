@@ -2,7 +2,9 @@
 	{
 		"file": "gallery/2024-09-ficus-benjamina-15yo-12yt.jpg",
 		"species": "Ficus benjamina (weeping fig)",
-		"tree": "Ficus benjamina, anno culto 2012",
+		"trees": [
+			"Ficus benjamina, anno culto 2012"
+		],
 		"style": "Formal upright, multi-trunk",
 		"date": "Sept 2024",
 		"ratio": "1557/1800",
@@ -12,7 +14,9 @@
 	{
 		"file": "gallery/2024-04-ficus-benjamina-defoliat-15yo-12yt.jpg",
 		"species": "Ficus benjamina (weeping fig)",
-		"tree": "Ficus benjamina, anno culto 2012",
+		"trees": [
+			"Ficus benjamina, anno culto 2012"
+		],
 		"style": "Formal upright, multi-trunk",
 		"date": "May 2024",
 		"ratio": "1266/1600",
@@ -22,7 +26,9 @@
 	{
 		"file": "gallery/2023-12-crassula-portulacea-6yo-6yt.jpg",
 		"species": "Crassula portulacea (finger jade)",
-		"tree": "+Crassula portulacea, anno culto 2017",
+		"trees": [
+			"+Crassula portulacea, anno culto 2017"
+		],
 		"style": "(No longer in collection) Informal upright, twin-trunk",
 		"date": "Dec 2023",
 		"ratio": "1843/2000",
@@ -32,7 +38,9 @@
 	{
 		"file": "gallery/2023-10-ficus-benjamina-fiole-14yo-11yt.jpg",
 		"species": "Ficus benjamina (weeping fig)",
-		"tree": "Ficus benjamina, anno culto 2012",
+		"trees": [
+			"Ficus benjamina, anno culto 2012"
+		],
 		"style": "Formal upright, multi-trunk",
 		"date": "Oct 2023",
 		"ratio": "1436/2000",
@@ -42,7 +50,9 @@
 	{
 		"file": "gallery/2023-09-ceraria-pygmaea-4yo-2yt.jpg",
 		"species": "Ceraria pygmaea (pygmy porkbush)",
-		"tree": "Ceraria pygmaea, anno culto 2021",
+		"trees": [
+			"Ceraria pygmaea, anno culto 2021"
+		],
 		"style": "Slanting, pierneef",
 		"date": "Sept 2023",
 		"ratio": "1814/2000",
@@ -52,7 +62,9 @@
 	{
 		"file": "gallery/2023-06-trichodiadema-densum-5yo-3yt.jpg",
 		"species": "Trichodiadema densum (mini desert rose)",
-		"tree": "Trichodiadema densum, anno culto 2020",
+		"trees": [
+			"Trichodiadema densum, anno culto 2020"
+		],
 		"style": "Informal upright, slanting",
 		"date": "Jun 2023",
 		"ratio": "1800/1312",
@@ -62,7 +74,9 @@
 	{
 		"file": "gallery/2023-05-ceraria-pygmaea-4yo-2yt.jpg",
 		"species": "Ceraria pygmaea (pygmy porkbush)",
-		"tree": "Ceraria pygmaea, anno culto 2021",
+		"trees": [
+			"Ceraria pygmaea, anno culto 2021"
+		],
 		"style": "Slanting, pierneef",
 		"date": "May 2023",
 		"ratio": "2000/1678",
@@ -72,7 +86,9 @@
 	{
 		"file": "gallery/2023-04-ficus-benjamina-defoliat-14yo-11yt.jpg",
 		"species": "Ficus benjamina (weeping fig)",
-		"tree": "Ficus benjamina, anno culto 2012",
+		"trees": [
+			"Ficus benjamina, anno culto 2012"
+		],
 		"style": "Formal upright, multi-trunk",
 		"date": "Apr 2023",
 		"ratio": "1800/1462",
@@ -82,7 +98,9 @@
 	{
 		"file": "gallery/2023-02-murraya-paniculata-1yo-1yt.jpg",
 		"species": "Murraya paniculata (orange jasmine)",
-		"tree": "Murraya paniculata, anno culto 2021",
+		"trees": [
+			"Murraya paniculata, anno culto 2021"
+		],
 		"style": "Semi-cascade",
 		"date": "Feb 2023",
 		"ratio": "2000/1098",
@@ -92,7 +110,9 @@
 	{
 		"file": "gallery/2023-01-trichodiadema-densum-4yo-2-3yt.jpg",
 		"species": "Trichodiadema densum (mini desert rose)",
-		"tree": "Trichodiadema densum, anno culto 2020",
+		"trees": [
+			"Trichodiadema densum, anno culto 2020"
+		],
 		"style": "Informal upright, slanting",
 		"date": "Jan 2023",
 		"ratio": "2000/1457",
@@ -102,7 +122,9 @@
 	{
 		"file": "gallery/2022-06-delosperma-napiforme-3yo-2yt.jpg",
 		"species": "Delosperma napiforme (ice plant)",
-		"tree": "Delosperma napiforme, anno culto 2020",
+		"trees": [
+			"Delosperma napiforme, anno culto 2020"
+		],
 		"style": "Informal upright, pierneef",
 		"date": "Jun 2022",
 		"ratio": "2000/1644",
@@ -112,7 +134,9 @@
 	{
 		"file": "gallery/2021-10-trichodiadema-densum-3yo-1yt.jpg",
 		"species": "Trichodiadema densum (mini desert rose)",
-		"tree": "Trichodiadema densum, anno culto 2020",
+		"trees": [
+			"Trichodiadema densum, anno culto 2020"
+		],
 		"style": "Informal upright, slanting",
 		"date": "Oct 2021",
 		"ratio": "2000/2000",
@@ -122,7 +146,9 @@
 	{
 		"file": "gallery/2021-06-bougainvillea-glabra-6yo-6yt.jpg",
 		"species": "Bougainvillea glabra (paperflower)",
-		"tree": "+Bougainvillea glabra, anno culto 2015",
+		"trees": [
+			"+Bougainvillea glabra, anno culto 2015"
+		],
 		"style": "(No longer in collection) Semi-cascade",
 		"date": "Jun 2021",
 		"ratio": "1717/2000",
@@ -132,7 +158,9 @@
 	{
 		"file": "gallery/2020-09-bougainvillea-glabra-5yo-5yt.jpg",
 		"species": "Bougainvillea glabra (paperflower)",
-		"tree": "+Bougainvillea glabra, anno culto 2015",
+		"trees": [
+			"+Bougainvillea glabra, anno culto 2015"
+		],
 		"style": "(No longer in collection) Semi-cascade",
 		"date": "Sept 2020",
 		"ratio": "2000/1546",
@@ -142,7 +170,9 @@
 	{
 		"file": "gallery/2020-09-crassula-ovata-2yo-0yt.jpg",
 		"species": "Crassula ovata (jade tree)",
-		"tree": "+Crassula ovata, anno culto 2020 #2",
+		"trees": [
+			"+Crassula ovata, anno culto 2020 #2"
+		],
 		"style": "(No longer in collection) Slanting",
 		"date": "Sept 2020",
 		"ratio": "2000/1497",
@@ -152,7 +182,9 @@
 	{
 		"file": "gallery/2020-08-crassula-ovata-2yo-0yt.jpg",
 		"species": "Crassula ovata (jade tree)",
-		"tree": "+Crassula ovata, anno culto 2020 #1",
+		"trees": [
+			"+Crassula ovata, anno culto 2020 #1"
+		],
 		"style": "(No longer in collection) Slanting",
 		"date": "Aug 2020",
 		"ratio": "2000/1723",
@@ -162,7 +194,9 @@
 	{
 		"file": "gallery/2020-07-trichodiadema-densum-2yo-0yt.jpg",
 		"species": "Trichodiadema densum (mini desert rose)",
-		"tree": "Trichodiadema densum, anno culto 2020",
+		"trees": [
+			"Trichodiadema densum, anno culto 2020"
+		],
 		"style": "Informal upright",
 		"date": "Jul 2020",
 		"ratio": "2000/1377",
@@ -172,7 +206,9 @@
 	{
 		"file": "gallery/2020-02-ficus-benjamina-11yo-7yt.jpg",
 		"species": "Ficus benjamina (weeping fig)",
-		"tree": "Ficus benjamina, anno culto 2012",
+		"trees": [
+			"Ficus benjamina, anno culto 2012"
+		],
 		"style": "Formal upright, multi-trunk",
 		"date": "Feb 2020",
 		"ratio": "1607/2000",
@@ -182,7 +218,9 @@
 	{
 		"file": "gallery/2018-07-bougainvillea-glabra-3yo-2-3yt.jpg",
 		"species": "Bougainvillea glabra (paperflower)",
-		"tree": "+Bougainvillea glabra, anno culto 2015",
+		"trees": [
+			"+Bougainvillea glabra, anno culto 2015"
+		],
 		"style": "(No longer in collection) Semi-cascade",
 		"date": "Jul 2018",
 		"ratio": "1414/2000",
@@ -192,7 +230,9 @@
 	{
 		"file": "gallery/2016-04-ficus-benjamina-7yo-3-4yt.jpg",
 		"species": "Ficus benjamina (weeping fig)",
-		"tree": "Ficus benjamina, anno culto 2012",
+		"trees": [
+			"Ficus benjamina, anno culto 2012"
+		],
 		"style": "Formal upright, multi-trunk",
 		"date": "Apr 2016",
 		"ratio": "1324/1885",
@@ -202,7 +242,9 @@
 	{
 		"file": "gallery/2012-11-ficus-benjamina-3yo-0yt.jpg",
 		"species": "Ficus benjamina (weeping fig)",
-		"tree": "Ficus benjamina, anno culto 2012",
+		"trees": [
+			"Ficus benjamina, anno culto 2012"
+		],
 		"style": "Formal upright, multi-trunk",
 		"date": "Nov 2012",
 		"ratio": "1592/2000",
@@ -212,7 +254,9 @@
 	{
 		"file": "gallery/2010-06-ulmus-minor-3yo-1yt.jpg",
 		"species": "Ulmus minor (field elm)",
-		"tree": "+Ulmus minor, anno culto 2009",
+		"trees": [
+			"+Ulmus minor, anno culto 2009"
+		],
 		"style": "(No longer in collection) Slanting, twin-trunk",
 		"date": "Jun 2010",
 		"ratio": "1639/2000",
