@@ -22,12 +22,12 @@ see. The full owner's guide is the site repo's
   The site's build cannot read HEIC.
 - **1600–2000 px on the long side.** Every copy the site shows is cut from
   this file (the largest is 1800 px wide); bigger only slows deploys.
-- **Strip the location first.** This repo is public, so anyone can download
-  an original and read its metadata — and phone photos carry the GPS position
-  they were taken at. The site's own copies are always clean, but the files
-  here are not. In Photoshop, *Export As* with Metadata set to *None*; on
-  Windows, right-click the file → Properties → Details → *Remove Properties
-  and Personal Information*; on a phone, turn off location in the camera app.
+- **Optional: strip the location.** Phone photos carry the GPS position they
+  were taken at, and this repo is public, so the originals here can reveal it
+  (the site's own copies never do — their metadata is always removed). To
+  strip it: Photoshop *Export As* with Metadata *None*, or on Windows
+  right-click → Properties → Details → *Remove Properties and Personal
+  Information*.
 - **Name:** lowercase, no spaces. The existing convention is
   `YYYY-MM-species-<age>yo-<years in training>yt.jpg`.
 
