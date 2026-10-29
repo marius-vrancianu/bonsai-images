@@ -1,5 +1,29 @@
 [
 	{
+		"file": "gallery/2025-09-mihai-a-trichodiadema-bulbosum-5yo-0yt.jpg",
+		"species": "Trichodiadema bulbosum (mini desert rose)",
+		"trees": [
+			"Trichodiadema bulbosum, anno culto 2025 #2"
+		],
+		"style": "Informal upright, slanting",
+		"date": "Sept 2025",
+		"notes": "The smallest bonsai at the exhibition: my shitō Tricho, featured as the companion accent in a stunning shohin display. The main trees aren't mine (I wish!)—the elegant Ginkgo atop the tall red stand was trained by Szilágyi Szilárd, and the gorgeous little olive on the right belongs to the one & only Mihai Ardeleanu. Formal show photo, copyright © Mihai Ardeleanu & Asociația Napoca Bonsai (napocabonsai.ro).",
+		"alt": "A formal shohin bonsai display against a black background, featuring a tall red stand holding a Ginkgo and a tiny shitō accent plant, alongside a small olive bonsai on a lower wooden table."
+	},
+	{
+		"file": "gallery/2025-09-mihai-a-c-pygmaea-6yo-4yt-t-densum-7yo-5yt-p-afra-9yo-4yt.jpg",
+		"species": "C. pygmaea, T. densum, P. afra",
+		"trees": [
+			"Ceraria pygmaea, anno culto 2021",
+			"Trichodiadema densum, anno culto 2020",
+			"Portulacaria afra, anno culto 2021 #2"
+		],
+		"style": "Mini-bonsai (shohin, mame, shitō) display",
+		"date": "Sept 2025",
+		"notes": "Formal photo of my 'mini-bonsai' display at the Napoca Bonsai Show. Photo copyright © Mihai Ardeleanu & Asociația Napoca Bonsai (napocabonsai.ro).",
+		"alt": "Three small succulent bonsai, an antique book, and a tiny animal skull showcased on a multi-tiered rustic stand against a black backdrop."
+	},
+	{
 		"file": "gallery/2025-09-vizitatori-c-pygmaea-6yo-4yt-t-densum-7yo-5yt-p-afra-9yo-4yt.jpeg",
 		"species": "C. pygmaea, T. densum, P. afra",
 		"trees": [
@@ -7,7 +31,7 @@
 			"Trichodiadema densum, anno culto 2020",
 			"Portulacaria afra, anno culto 2021 #2"
 		],
-		"style": "Mini-bonsai (shohin, mame, shito) display",
+		"style": "Mini-bonsai (shohin, mame, shitō) display",
 		"date": "Sept 2025",
 		"notes": "Visitors at the Napoca Bonsai show, taking a closer look at my 'mini-bonsai' display. Look us up at napocabonsai.ro",
 		"alt": "Two visitors leaning in to inspect a multi-tiered mini-bonsai display at an exhibition"
@@ -20,7 +44,7 @@
 			"Trichodiadema densum, anno culto 2020",
 			"Portulacaria afra, anno culto 2021 #2"
 		],
-		"style": "Mini-bonsai (shohin, mame, shito) display",
+		"style": "Mini-bonsai (shohin, mame, shitō) display",
 		"date": "Sept 2025",
 		"notes": "My 'mini-bonsai' display at the Napoca Bonsai show, during the first day of the exhibition. Organized the trees a bit differently than the original mockup, but still tried to emphasize an arid, industrial decay scene with the burnt wood and corroded copper pipe stand. Had to level up the Port with an antique book, felt good in that spot. :) Look us up at napocabonsai.ro",
 		"alt": "Five mini succulent bonsai on a burnt-wood and corroded copper-pipe stand, with a skull and antique book in an arid display"
@@ -35,7 +59,7 @@
 			"Portulacaria afra, anno culto 2021 #2",
 			"Ceraria pygmaea, anno culto 2021"
 		],
-		"style": "Mini-bonsai (shohin, mame, shito) display",
+		"style": "Mini-bonsai (shohin, mame, shitō) display",
 		"date": "Jul 2025",
 		"notes": "My mockup for the 'mini-bonsai' display at the Napoca Bonsai show. Tried going for an arid, industrial decay scene with the burnt wood and corroded copper pipes stand + the skull and some deadwood remains. Look us up at napocabonsai.ro",
 		"alt": "Five mini succulent bonsai on a burnt-wood and corroded copper-pipe stand, with a skull and deadwood pieces in an arid display"
@@ -92,8 +116,8 @@
 		],
 		"style": "Informal upright, slanting",
 		"date": "Jul 2025",
-		"notes": "Smiling in the dim light of sunset. Mere months after I bought it from succulentgarden.ro, this tiny, shito-size, caudiciform Tricho got a proper little pot, made by Sergey Bogopolski (Сергей Богопольский), Chernivtsi. The 'tree' was already around 5 years old and had a great branching structure from the start: I was damn lucky with this find. Just a bit of pruning, exposing the roots, and a repot into a nice container, and voilà: instant mini-bonsai!",
-		"alt": "A tiny, shito-sized Trichodiadema bulbosum mini-bonsai with thick caudex and spine-tipped succulent leaves in a textured, round earthenware pot lit by warm sunset light."
+		"notes": "Smiling in the dim light of sunset. Mere months after I bought it from succulentgarden.ro, this tiny, shitō-size, caudiciform Tricho got a proper little pot, made by Sergey Bogopolski (Сергей Богопольский), Chernivtsi. The 'tree' was already around 5 years old and had a great branching structure from the start: I was damn lucky with this find. Just a bit of pruning, exposing the roots, and a repot into a nice container, and voilà: instant mini-bonsai!",
+		"alt": "A tiny, shitō-sized Trichodiadema bulbosum mini-bonsai with thick caudex and spine-tipped succulent leaves in a textured, round earthenware pot lit by warm sunset light."
 	},
 	{
 		"file": "gallery/2025-07-portulacaria-afra-inceputul-lunii-9yo-4yt.jpg",
@@ -191,7 +215,7 @@
 		],
 		"style": "Informal upright, slanting",
 		"date": "Jun 2023",
-		"notes": "Cosmetic scissors are realistically the only tool I could use to prune and defoliate this little fellow. 3 years after starting the project, the Tricho is forming some nice pads (for a shito bonsai) and moving more and more towards an accentuated slanting position, hinting at a semi-cascade.",
+		"notes": "Cosmetic scissors are realistically the only tool I could use to prune and defoliate this little fellow. 3 years after starting the project, the Tricho is forming some nice pads (for a shitō bonsai) and moving more and more towards an accentuated slanting position, hinting at a semi-cascade.",
 		"alt": "Mini desert rose with bristly foliage in a turquoise-rimmed textured pot, outdoors on a huge dried leaf beside bonsai shears"
 	},
 	{
@@ -246,7 +270,7 @@
 		],
 		"style": "Informal upright, pierneef",
 		"date": "Jun 2022",
-		"notes": "Great species for extra-mini bonsai (mame, shito and keshitsubo), not-so-great for bonsai design. It's very drought-tolerant and can thrive with minute quantities of soil and the leaves are quite small. But! It has a bad habit of winter dieback (including mature branches) and tends to form a caudex, quite hard to shape as a bonsai trunk. Still hangs around in my collection, maybe I'll get somewhere with it.",
+		"notes": "Great species for extra-mini bonsai (mame, shitō and keshitsubo), not-so-great for bonsai design. It's very drought-tolerant and can thrive with minute quantities of soil and the leaves are quite small. But! It has a bad habit of winter dieback (including mature branches) and tends to form a caudex, quite hard to shape as a bonsai trunk. Still hangs around in my collection, maybe I'll get somewhere with it.",
 		"alt": "Ice plant with silvery leaves and a swollen storage root in a cracked white bowl on a marbled book, a framed old map behind"
 	},
 	{
@@ -312,7 +336,7 @@
 		],
 		"style": "Informal upright",
 		"date": "Jul 2020",
-		"notes": "The start of a shito-sized project with a tiny arid species (coin added for size comparison). Due to a lack of any outdoor setting and indoor space, I started experimenting more and more with woody succulents as mini-bonsai around 2017-2020. Some projects were dead-ends from the start, while others still grow well & happy. My soft spot for mini-bonsai and desert plants remained.",
+		"notes": "The start of a shitō-sized project with a tiny arid species (coin added for size comparison). Due to a lack of any outdoor setting and indoor space, I started experimenting more and more with woody succulents as mini-bonsai around 2017-2020. Some projects were dead-ends from the start, while others still grow well & happy. My soft spot for mini-bonsai and desert plants remained.",
 		"alt": "Young mini desert rose starts sprouting around a rock in a cracked pale-blue bowl, set on a thick leather-bound tome"
 	},
 	{
